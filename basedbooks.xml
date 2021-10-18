@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<channel>
+  <title>Based Books</title>
+  <description>Some based books I like to read</description>
+  <link>https://github.com/Agunboy/based_books</link>
+  
+  <item>
+    <title>Lingua Latina Per Se Illustrata</title>
+    <link>https://github.com/Agunboy/based_books/blob/main/(Lingua%20Latina%20per%20se%20Illustrata)%20Hans%20H.%20%C3%98rberg%20-%20Pars%20I_%20Familia%20Romana-Focus%20Publishing_R.%20Pullins%20Co..txt</link>
+  </item>
+</channel> 
+</rss>
