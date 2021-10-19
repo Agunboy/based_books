@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<channel>
+  <title>Based Books</title>
+  <description>Some based books I like to read</description>
+  <link>https://github.com/Agunboy/based_books</link>
+  <atom:link href="https://raw.githubusercontent.com/Agunboy/based_books/main/basedbooks.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Lingua Latina Per Se Illustrata</title>
+    <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/Agunboy/based_books/main/Lingua%20Latina%20per%20Se%20Illustrata%20-%20Pars%20I%20Familia%20Romana.html</link>
+    <guid>https://htmlpreview.github.io/?https://raw.githubusercontent.com/Agunboy/based_books/main/Lingua%20Latina%20per%20Se%20Illustrata%20-%20Pars%20I%20Familia%20Romana.html</guid>
+    <pubDate>Tue, 19 Oct 2021 06:28:00 UST</pubDate>
+  </item>
+  <item>
+    <title>Beginner's Latin</title>
+    <link>https://www.gutenberg.org/cache/epub/18251/pg18251-images.html</link>
+  </item>
+</channel> 
+</rss>
